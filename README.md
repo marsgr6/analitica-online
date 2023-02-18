@@ -1,7 +1,7 @@
 <h1><a name="ig">Índice General</a></h1>
 
 - [Analítica Descriptiva](#ad)
-- - [Analítica Predictiva](#ap) 
+- [Analítica Predictiva](#ap) 
 
 <h2><a name="ad">Analítica Descriptiva</a></h2>
 
