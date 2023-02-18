@@ -1,8 +1,8 @@
-<a name="ig">Índice General</a>
+<h1><a name="ig">Índice General</a></h1>
  - [Analítica Descriptiva](#ad)
  - [Analítica Predictiva](#ap) 
 
-<a name="ad">Analítica Descriptiva</a>
+<h2><a name="ad">Analítica Descriptiva</a></h2>
 
 La asignatura se enfoca en la analítica descriptiva como componente fundamental de la ciencia de datos. Los estudiantes reciben una base de conocimiento estadístico relacionado al análisis descriptivo, distribuciones de probabilidad, inferencia estadística, estimación y prueba de hipótesis, que será de utilidad para todo tipo de análisis de datos y proporcionarán un fundamento para análisis más avanzados.
 
@@ -32,7 +32,7 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 
 - [Volver al índice](#ig)
 
-<a name="ap">Analítica Predictiva</a>
+<h2><a name="ap">Analítica Predictiva</a></h2>
 
 ### Docente
 
