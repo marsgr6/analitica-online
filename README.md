@@ -1,8 +1,8 @@
 # Índice General
- - [Analítica Descriptiva](#analitica-descriptiva)
- - [Analítica Predictiva](#analitica-predictiva) 
+ - [Analítica Descriptiva](#ad)
+ - [Analítica Predictiva](#ap) 
 
-## Analítica Descriptiva
+<a name="ad">Analítica Descriptiva</a>
 
 La asignatura se enfoca en la analítica descriptiva como componente fundamental de la ciencia de datos. Los estudiantes reciben una base de conocimiento estadístico relacionado al análisis descriptivo, distribuciones de probabilidad, inferencia estadística, estimación y prueba de hipótesis, que será de utilidad para todo tipo de análisis de datos y proporcionarán un fundamento para análisis más avanzados.
 
@@ -30,7 +30,7 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 
 - [Estadística y probabilidad interactiva](https://mybinder.org/v2/gh/marsgr6/EN-interactive/HEAD?urlpath=voila%2Frender%2Fapp.ipynb)
 
-## Analítica Predictiva
+<a name="ap">Analítica Predictiva</a>
 
 ### Docente
 
