@@ -1,4 +1,4 @@
-# Analítica Descriptiva: Estadística de Negocios
+# Analítica Descriptiva
 
 La asignatura se enfoca en la analítica descriptiva como componente fundamental de la ciencia de datos. Los estudiantes reciben una base de conocimiento estadístico relacionado al análisis descriptivo, distribuciones de probabilidad, inferencia estadística, estimación y prueba de hipótesis, que será de utilidad para todo tipo de análisis de datos y proporcionarán un fundamento para análisis más avanzados.
 
