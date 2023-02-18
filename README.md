@@ -1,4 +1,4 @@
-# Índice General
+<a name="ig">Índice General</a>
  - [Analítica Descriptiva](#ad)
  - [Analítica Predictiva](#ap) 
 
@@ -30,6 +30,8 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 
 - [Estadística y probabilidad interactiva](https://mybinder.org/v2/gh/marsgr6/EN-interactive/HEAD?urlpath=voila%2Frender%2Fapp.ipynb)
 
+- [Volver al índice](#ig)
+
 <a name="ap">Analítica Predictiva</a>
 
 ### Docente
@@ -51,6 +53,8 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 |        | [Modelos para datos de panel](https://nbviewer.org/github/marsgr6/EN-online/blob/main/predictiva/Unidad_No_8_Modelos_para_datos_de_panel.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=predictiva/Unidad_No_8_Modelos_para_datos_de_panel.ipynb) | [Enlace](https://notebooks.anaconda.org/msgonzalez/Unidad_No_8_Modelos_para_datos_de_panel/download?version=)  |
 
 - Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/analitca-online/HEAD)
+
+- [Volver al índice](#ig)
 
 ### Anexo: Introducción a Python 3
 
