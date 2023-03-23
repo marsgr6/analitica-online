@@ -23,7 +23,7 @@
 | 4      | [Estadística Inferencial: Intervalos de confianza](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=statistical_inference.ipynb) | [Enlace](https://notebooks.anaconda.org/msgonzalez/statistical_inference/download?version=)  |
 |       | [Estadística Inferencial: Pruebas de hipótesis](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_tests.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=statistical_tests.ipynb) | [Enlace](https://notebooks.anaconda.org/msgonzalez/statistical_tests/download?version=)  |
 
-- Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
+- Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/analitica-online/HEAD)
 
 - [Estadística y probabilidad interactiva](https://mybinder.org/v2/gh/marsgr6/EN-interactive/HEAD?urlpath=voila%2Frender%2Fapp.ipynb)
 
