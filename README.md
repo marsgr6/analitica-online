@@ -49,7 +49,7 @@
 | 4      | [La econometria y la ciencia de datos](https://nbviewer.org/github/marsgr6/analitica-online/blob/main/predictiva/Unidad_No_7_La_econometria_y_la_ciencia_de_datos.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/analitica-online/HEAD?labpath=predictiva/Unidad_No_7_La_econometria_y_la_ciencia_de_datos.ipynb) | [Enlace](https://github.com/marsgr6/analitica-online/archive/refs/heads/main.zip)  |
 |        | [Modelos para datos de panel](https://nbviewer.org/github/marsgr6/analitica-online/blob/main/predictiva/Unidad_No_8_Modelos_para_datos_de_panel.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/analitica-online/HEAD?labpath=predictiva/Unidad_No_8_Modelos_para_datos_de_panel.ipynb) | [Enlace](https://github.com/marsgr6/analitica-online/archive/refs/heads/main.zip)  |
 
-- Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/analitca-online/HEAD)
+- Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/analitica-online/HEAD)
 
 - [Volver al índice](#ig)
 
